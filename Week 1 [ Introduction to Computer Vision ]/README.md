@@ -2,7 +2,8 @@
 # Introduction to Computer Vision
 
 Here we see a general introduction to Computer Vision, learning how machines actually see the world and process the data in their understandable format.
-The exercise files and the solutions is be available here. Feel free to check out. Thanks.
+
+The exercise files and the solutions is available here. Feel free to check out. Thanks.
 
 ## Authors
 Connect with Rajdeep:
