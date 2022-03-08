@@ -18,7 +18,7 @@ Apart from the exercises and assignments, I have also performed some implementat
 
 Feel free to check the whole repository. Hope this helps to get started. Thanks. 
 
-[Check out the course here](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
+[Check out the course here.](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
 
 
 ## Author
